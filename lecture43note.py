@@ -26,9 +26,11 @@ todo             4. Nearest Neighbour
 ?     Algorithms for Clustering
 todo             1. K-means, K-medoids, Fuzzy C-means
 todo             2. Heirarchical
-todo             3. Gaussian Mixture 
+todo             3. Gaussian Mixture (GMM)
 todo             4. Neural Networks 
 todo             5. Hidden Markov Model
+
+todo: Random forest can be used for classification and regression both. There are both random forest classifiers and regressers. 
 
 *Dataset should be divided into test and train set. The train set generates a fully functional model. 
 
